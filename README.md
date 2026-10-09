@@ -5,8 +5,8 @@ served over GitHub Pages at <https://darodrian.github.io/pokeapi-sprites/>.
 
 ## Layout
 
-- `NNNN/` — normal base-form sprite for a dex number (e.g. `0025/Idle-Anim.png`)
-- `shiny/NNNN/` — shiny base-form sprite
+- `sprites/NNNN/` — normal base-form sprite for a dex number (e.g. `sprites/0025/Idle-Anim.png`)
+- `sprites/shiny/NNNN/` — shiny base-form sprite
 
 Each folder contains `AnimData.xml` and one `*-Anim.png` per animation. Only the
 animations used by the overlay are included (no offsets, shadows, or forms).
